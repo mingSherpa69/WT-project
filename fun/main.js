@@ -74,3 +74,12 @@ function displayCatHeart() {
         document.getElementById('options').style.display = 'none';
     };
 }
+
+
+/// git init =  ceate the repo
+
+//  git checkout -b  <branchname>  = to make the branch 
+/// git status 
+ /// git switch <branch name >
+ // git add . =  stageing area ma gayao tara push chaii bhako xaina 
+ // git commit -m "navbar" --   
