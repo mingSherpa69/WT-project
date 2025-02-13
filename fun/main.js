@@ -82,4 +82,8 @@ function displayCatHeart() {
 /// git status 
  /// git switch <branch name >
  // git add . =  stageing area ma gayao tara push chaii bhako xaina 
- // git commit -m "navbar" --   
+ // git commit -m "navbar" -- 
+ /// git push origin working 
+ // git pull origin version-one
+ //  git log 
+ ///git branch 
